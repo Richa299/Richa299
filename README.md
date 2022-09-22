@@ -9,7 +9,7 @@
 #### About Me ?
 
 - 🏫 I'm a University Graduate with a Bachelor’s degree in Computer Science and Engineering from the SR Institute of Management and Technology, Lucknow, Uttar Pradesh, India.
-- ⚡️ My expertise primarily revolves around Java, JavaScript, React, Web Development, NextJS.
+- ⚡️ My expertise primarily revolves around Java, JavaScript, React, Web Development.
 - ⚡️ Currently working on myself to be a better programmer and a capable Software Engineer.
 - ⚡️ Still learning different tech-stacks to improve myself over & over again;
 - 🔭 Worked on several projects using different Tech-stacks & frameworks to enhance practical knowledge.
